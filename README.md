@@ -26,8 +26,7 @@
 ## 📫 Contato
 
 <p align="left">
-www.linkedin.com/in/lucca-begliomini-02491b2a7
-lucca.20260167@institutojef.org.br</p>
+www.linkedin.com/in/lucca-begliomini-02491b2a7</p>
 
 ## 🛠️ Linguagens e Ferramentas
 
