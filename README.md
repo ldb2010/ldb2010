@@ -6,15 +6,6 @@
   <img src="https://i.postimg.cc/zvysFRdb/octocat-1753989166040.png" alt="octocat" width="250"/>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ldb2010chefinho&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ldb2010chefinho" alt="Troféus do GitHub" />
-  </a>
-</p>
 
 ## 👨‍💻 Sobre mim
 
